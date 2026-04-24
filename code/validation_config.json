@@ -1,0 +1,5 @@
+{
+  "user_id": "string",
+  "user_message": "string",
+  "session_token": "string"
+}
