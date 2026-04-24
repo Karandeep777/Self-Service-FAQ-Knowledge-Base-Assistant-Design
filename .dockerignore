@@ -1,0 +1,60 @@
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Git files
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+README.md
+*.md
+docs/
+
+# Test files
+tests/
+test_*
+*_test.py
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# Log files
+*.log
+logs/
+
+# Deployment files
+deploy/
+deploy_dev/
+deploy_sit/
+.dockerignore
+
+# Other development-only files
+
